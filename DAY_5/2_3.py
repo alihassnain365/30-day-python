@@ -11,3 +11,6 @@ print("My Life : ",l1)
 
 l2 = ['ahsan', 'sheki','abby butt', 'daniyal', 'sadi','ayan']
 print('My Friends : ', l2)
+
+# length of list
+print(len(l1))
